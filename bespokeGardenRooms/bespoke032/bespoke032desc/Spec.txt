@@ -1,0 +1,21 @@
+External steel frame size - 4500mm (w) x 3400mm (l)
+
+Internal steel frame size - 4294mm (w) x 3194mm (l)
+
+External steel frame height (at highest point) - 2406mm
+
+Internal steel frame height (at lowest point) - 2201mm
+
+Front structural opening size - 3000mm (w) x 2101mm (h)
+
+Side structural openings size - 600mm (w) x 2100mm (h)
+
+Roof structural openings size - 1060mm (w) x 1560mm (h)
+
+Wall sections @ max. 600crs
+Roof sections @ max. 600crs B2B
+
+600mm overhang on front
+100mm overhang on rear 
+100mm overhang on sides 
+
