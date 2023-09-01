@@ -1,0 +1,30 @@
+External steel frame size - 18000mm (w) x 5000mm (l)
+
+Internal steel frame size - 17794mm (w) x 4794mm (l)
+
+External steel frame height (at highest point) - 2850mm
+
+Internal steel frame height (at lowest point) - 2297mm
+
+Furthest Left structural opening size - 1820mm (w) x 2196mm (h)
+
+Second from Left structural opening size - 1220mm (w) x 2196mm (h)
+
+Third from Left structural opening size - 3810mm (w) x 2136mm (h)
+
+Fourth from Left structural opening size - 1820mm (w) x 2196mm (h)
+
+Side structural opening size - 620mm (w) x 2135mm (h)
+
+
+Wall sections @ max. 600crs
+Roof sections @ max. 600crs
+
+No overhang on front
+No overhang on rear 
+No overhang on sides 
+
+388mm Parapet Wall
+
+
+
